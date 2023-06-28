@@ -1,0 +1,206 @@
+ [
+  {
+    "name": "Superman",
+    "image": "superman.jpg",
+    "bio": "Kal-El, also known as Superman, is the last son of Krypton and possesses superhuman strength, speed, and the ability to fly.",
+    "powers": ["Superhuman Strength", "Flight", "Heat Vision"],
+"type": "superhero"
+  },
+  {
+    "name": "Batman",
+    "image": "batman.jpg",
+    "bio": "Bruce Wayne, also known as Batman, is a billionaire vigilante who fights crime in Gotham City using his intelligence and advanced gadgets.",
+    "powers": ["Peak Human Condition", "Master Detective", "Utility Belt"],
+"type": "superhero"
+  },
+  {
+    "name": "Wonder Woman",
+    "image": "wonderwoman.jpg",
+    "bio": "Diana Prince, also known as Wonder Woman, is an Amazon princess and warrior with superhuman strength, speed, and combat skills.",
+    "powers": ["Superhuman Strength", "Lasso of Truth", "Bracelets of Submission"],
+"type": "superhero"
+  },{
+    "name": "The Flash",
+    "image": "flash.jpg",
+    "bio": "Barry Allen, also known as The Flash, is a speedster with the ability to move at incredible speeds and manipulate the flow of time.",
+    "powers": ["Superhuman Speed", "Time Manipulation", "Speed Force"],
+"type": "superhero"
+  },
+  {
+    "name": "Green Lantern",
+    "image": "greenlantern.jpg",
+    "bio": "Hal Jordan, a member of the Green Lantern Corps, wields a power ring that allows him to create energy constructs and protect the universe.",
+    "powers": ["Power Ring", "Energy Constructs", "Flight"],
+"type": "superhero"
+  },
+  {
+    "name": "Aquaman",
+    "image": "aquaman.jpg",
+    "bio": "Arthur Curry, also known as Aquaman, is the king of Atlantis and possesses superhuman strength, the ability to breathe underwater, and communicate with sea creatures.",
+    "powers": ["Superhuman Strength", "Underwater Adaptation", "Hydrokinesis"],
+"type": "superhero"
+  },
+  {
+    "name": "Cyborg",
+    "image": "cyborg.jpg",
+    "bio": "Victor Stone, also known as Cyborg, is a half-human, half-machine superhero with enhanced strength, technopathy, and various high-tech abilities.",
+    "powers": ["Superhuman Strength", "Technopathy", "Enhanced Senses"],
+"type": "superhero"
+  },
+  {
+    "name": "Green Arrow",
+    "image": "greenarrow.jpg",
+    "bio": "Oliver Queen, also known as Green Arrow, is a skilled archer and vigilante who fights crime in Star City using his archery skills and trick arrows.",
+    "powers": ["Master Archer", "Trick Arrows", "Peak Human Condition"],
+"type": "superhero"
+  },
+  {
+    "name": "Supergirl",
+    "image": "supergirl.jpg",
+    "bio": "Kara Zor-El, also known as Supergirl, is Superman's cousin from Krypton and possesses similar superhuman abilities.",
+    "powers": ["Superhuman Strength", "Flight", "Heat Vision"],
+"type": "superhero"
+  },
+  {
+    "name": "Shazam",
+    "image": "shazam.jpg",
+    "bio": "Billy Batson, when he says the word 'Shazam,' transforms into a superhero with the wisdom of Solomon, the strength of Hercules, and other godlike abilities.",
+    "powers": ["Superhuman Strength", "Flight", "Electricity Manipulation"],
+"type": "superhero"
+  },
+  {
+    "name": "Martian Manhunter",
+    "image": "martianmanhunter.jpg",
+    "bio": "J'onn J'onzz, also known as Martian Manhunter, is the last surviving Martian with shape-shifting, telepathy, and various other powers.",
+    "powers": ["Shape-Shifting", "Superhuman Strength", "Telepathy"],
+"type": "superhero"
+  },
+  {
+    "name": "Black Canary",
+    "image": "blackcanary.jpg",
+    "bio": "Dinah Lance, also known as Black Canary, is a skilled martial artist with a powerful sonic scream called the Canary Cry.",
+    "powers": ["Martial Arts", "Canary Cry", "Expert Acrobat"],
+"type": "superhero"
+  },
+  {
+    "name": "Nightwing",
+    "image": "nightwing.jpg",
+    "bio": "Dick Grayson, the original Robin, adopts the identity of Nightwing and fights crime as a skilled acrobat and detective.",
+    "powers": ["Acrobatics", "Martial Arts", "Detective Skills"],
+"type": "superhero"
+  },
+  {
+    "name": "Harley Quinn",
+    "image": "harleyquinn.jpg",
+    "bio": "Harleen Quinzel, also known as Harley Quinn, is a former psychiatrist turned criminal and the Joker's frequent accomplice.",
+    "powers": ["Acrobatics", "Enhanced Agility", "Weapon Proficiency"],
+"type": "superhero"
+  },
+  {
+    "name": "Zatanna",
+    "image": "zatanna.jpg",
+    "bio": "Zatanna Zatara is a skilled magician and sorceress who can manipulate reality through the use of spoken spells.",
+    "powers": ["Magic Spells", "Reality Manipulation", "Telekinesis"],
+"type": "superhero"
+  },
+  {
+    "name": "Red Hood",
+    "image": "redhood.jpg",
+    "bio": "Jason Todd, formerly the second Robin, takes on the identity of Red Hood and becomes an antihero with exceptional combat skills.",
+    "powers": ["Skilled Combatant", "Marksmanship", "Tactical Expertise"],
+"type": "superhero"
+  },
+  {
+    "name": "Batwoman",
+    "image": "batwoman.jpg",
+    "bio": "Kate Kane, also known as Batwoman, is a highly trained crime-fighter and vigilante who operates in Gotham City.",
+    "powers": ["Martial Arts", "Detective Skills", "Utility Belt"],
+"type": "superhero"
+  },
+  {
+    "name": "Constantine",
+    "image": "constantine.jpg",
+    "bio": "John Constantine is a streetwise magician and occult detective who battles supernatural forces and demons.",
+    "powers": ["Magic Spells", "Occult Knowledge", "Cunning Intelligence"],
+"type": "superhero"
+  },
+  {
+    "name": "Raven",
+    "image": "raven.jpg",
+    "bio": "Raven is a half-human, half-demon sorceress with dark powers and a member of the Teen Titans.",
+    "powers": ["Dark Magic", "Astral Projection", "Empathy"],
+"type": "superhero"
+  },
+{
+  "name": "Wonder Woman",
+  "image": "wonderwoman.jpg",
+  "bio": "Diana Prince, also known as Wonder Woman, is an Amazonian princess and warrior with superhuman strength, agility, and the power of flight. She uses her abilities to protect the innocent and fight for justice.",
+  "powers": ["Superhuman Strength", "Agility", "Flight"],
+  "type": "superhero"
+},
+{
+  "name": "Batgirl",
+  "image": "batgirl.jpg",
+  "bio": "Barbara Gordon, also known as Batgirl, is a highly skilled martial artist and detective who fights crime alongside Batman and the Bat Family.",
+  "powers": ["Martial Arts", "Detective Skills", "Utility Belt"],
+  "type": "superhero"
+},
+{
+  "name": "Hawkgirl",
+  "image": "hawkgirl.jpg",
+  "bio": "Shiera Sanders Hall, also known as Hawkgirl, is a reincarnated ancient Egyptian princess with the ability to fly and enhanced strength. She wields a mace in battle and fights alongside other superheroes as a member of the Justice League.",
+  "powers": ["Flight", "Enhanced Strength", "Mace Combat"],
+  "type": "superhero"
+},
+{
+  "name": "Zatara",
+  "image": "zatara.jpg",
+  "bio": "Giovanni Zatara, also known as Zatara, is a stage magician who possesses real magical powers. He can cast spells by speaking backward and uses his abilities to fight against supernatural threats.",
+  "powers": ["Magic Spells", "Illusion Manipulation", "Teleportation"],
+  "type": "superhero"
+},
+{
+  "name": "Blue Beetle",
+  "image": "bluebeetle.jpg",
+  "bio": "Jaime Reyes, also known as Blue Beetle, is a teenager who gains a powerful alien scarab that fuses to his spine. The scarab provides him with a high-tech suit and various abilities to fight crime.",
+  "powers": ["Alien Scarab Technology", "Enhanced Strength", "Energy Blasts"],
+  "type": "superhero"
+},
+{
+  "name": "Vixen",
+  "image": "vixen.jpg",
+  "bio": "Mari McCabe, also known as Vixen, possesses the ability to harness the powers of animals through a mystical totem. She can mimic the abilities of any animal and uses her powers to protect the innocent.",
+  "powers": ["Animal Mimicry", "Enhanced Senses", "Superhuman Agility"],
+  "type": "superhero"
+},
+{
+  "name": "Firestorm",
+  "image": "firestorm.jpg",
+  "bio": "Ronnie Raymond and Martin Stein merge to become Firestorm, a superhero with the power to transmute elements and create nuclear energy. They use their combined abilities to fight against villains and protect the world.",
+  "powers": ["Elemental Transmutation", "Nuclear Energy Manipulation", "Flight"],
+  "type": "superhero"
+},
+{
+  "name": "Atom",
+  "image": "atom.jpg",
+  "bio": "Ray Palmer, also known as Atom, has the ability to shrink his body to subatomic levels while retaining his full strength. He uses his size-changing powers and scientific knowledge to fight crime and explore the microscopic world.",
+  "powers": ["Size Manipulation", "Superhuman Strength", "Scientific Knowledge"],
+  "type": "superhero"
+},
+{
+  "name": "Huntress",
+  "image": "huntress.jpg",
+ 
+
+ "bio": "Helena Bertinelli, also known as Huntress, is a skilled vigilante and expert marksman. She seeks justice for her murdered family and fights against organized crime in Gotham City.",
+  "powers": ["Marksmanship", "Martial Arts", "Enhanced Reflexes"],
+  "type": "superhero"
+},
+{
+  "name": "Mera",
+  "image": "mera.jpg",
+  "bio": "Mera is the queen of Atlantis and possesses the ability to manipulate water, control its density, and communicate with aquatic creatures. She aids Aquaman in his missions to protect the underwater kingdom and the surface world.",
+  "powers": ["Hydrokinesis", "Water Manipulation", "Aquatic Communication"],
+  "type": "superhero"
+}
+]
