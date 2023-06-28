@@ -41,8 +41,8 @@ function populateSuperheroCards(superheroesData, containerId) {
 
 // Populate the MCU and DC superhero cards
 document.addEventListener("DOMContentLoaded", function() {
-  const mcuURL = '/mcu.json'; // Replace with the actual MCU JSON URL
-  const dcURL = '/dc.json'; // Replace with the actual DC JSON URL
+  const mcuURL = 'mcu.json'; // Replace with the actual MCU JSON URL
+  const dcURL = 'dc.json'; // Replace with the actual DC JSON URL
 
   fetchSuperheroData(mcuURL)
     .then(mcuData => {
