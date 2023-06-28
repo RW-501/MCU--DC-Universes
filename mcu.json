@@ -1,104 +1,161 @@
-  [
-  {
-    "name": "Iron Man",
-    "image": "ironman.jpg",
-    "bio": "Genius billionaire Tony Stark, also known as Iron Man, created a high-tech suit of armor to save the world from various threats.",
-    "powers": ["Powered Armor", "Flight", "Energy Blasts"]
-  },
-  {
-    "name": "Captain America",
-    "image": "captainamerica.jpg",
-    "bio": "Steve Rogers, also known as Captain America, is a super-soldier and the first Avenger who fought against evil during World War II.",
-    "powers": ["Enhanced Strength", "Enhanced Agility", "Vibranium Shield"]
-  },
-  {
-    "name": "Thor",
-    "image": "thor.jpg",
-    "bio": "Thor Odinson, the God of Thunder, wields the enchanted hammer Mjolnir and protects the Nine Realms from various threats.",
-    "powers": ["Superhuman Strength", "Weather Manipulation", "Flight"]
-  },
-  {
-    "name": "Hulk",
-    "image": "hulk.jpg",
-    "bio": "Dr. Bruce Banner transforms into the Hulk, a green-skinned giant with immense strength, whenever he gets angry or excited.",
-    "powers": ["Superhuman Strength", "Regenerative Healing", "Unlimited Stamina"]
-  },
-  {
-    "name": "Black Widow",
-    "image": "blackwidow.jpg",
-    "bio": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin who has trained extensively in martial arts.",
-    "powers": ["Master Martial Artist", "Espionage Expert", "Acrobatics"]
-  },
-  {
-    "name": "Hawkeye",
-    "image": "hawkeye.jpg",
-    "bio": "Clint Barton, known as Hawkeye, is an exceptional marksman and skilled archer who never misses his target.",
-    "powers": ["Master Archer", "Expert Marksman", "Trick Arrows"]
-  },
-  {
-    "name": "Black Panther",
-    "image": "blackpanther.jpg",
-    "bio": "T'Challa, the Black Panther and king of Wakanda, possesses enhanced abilities and protects his nation using advanced technology.",
-    "powers": ["Enhanced Strength", "Vibranium Suit", "Heightened Senses"]
-  },
-  {
-    "name": "Doctor Strange",
-    "image": "doctorstrange.jpg",
-    "bio": "Dr. Stephen Strange, a brilliant neurosurgeon, becomes the Master of the Mystic Arts and protects the Earth from supernatural threats.",
-    "powers": ["Mystic Arts", "Time Manipulation", "Dimensional Travel"]
-  },
-  {
-    "name": "Spider-Man",
-    "image": "spiderman.jpg",
-    "bio": "Peter Parker, also known as Spider-Man, is a young superhero with incredible agility, wall-crawling abilities, and a web-shooting device.",
-    "powers": ["Agility", "Web-Slinging", "Spider-Sense"]
-  },
+[
+{
+"name": "Iron Man",
+"image": "ironman.jpg",
+"bio": "Genius billionaire Tony Stark, also known as Iron Man, created a high-tech suit of armor to save the world from various threats.",
+"powers": ["Powered Armor", "Flight", "Energy Blasts"],
+"type": "superhero"
+},
+{
+"name": "Captain America",
+"image": "captainamerica.jpg",
+"bio": "Steve Rogers, also known as Captain America, is a super-soldier and the first Avenger who fought against evil during World War II.",
+"powers": ["Enhanced Strength", "Enhanced Agility", "Vibranium Shield"],
+"type": "superhero"
+},
+{
+"name": "Thor",
+"image": "thor.jpg",
+"bio": "Thor Odinson, the God of Thunder, wields the enchanted hammer Mjolnir and protects the Nine Realms from various threats.",
+"powers": ["Superhuman Strength", "Weather Manipulation", "Flight"],
+"type": "superhero"
+},
+{
+"name": "Hulk",
+"image": "hulk.jpg",
+"bio": "Dr. Bruce Banner transforms into the Hulk, a green-skinned giant with immense strength, whenever he gets angry or excited.",
+"powers": ["Superhuman Strength", "Regenerative Healing", "Unlimited Stamina"],
+"type": "superhero"
+},
+{
+"name": "Black Widow",
+"image": "blackwidow.jpg",
+"bio": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin who has trained extensively in martial arts.",
+"powers": ["Master Martial Artist", "Espionage Expert", "Acrobatics"],
+"type": "superhero"
+},
+{
+"name": "Hawkeye",
+"image": "hawkeye.jpg",
+"bio": "Clint Barton, known as Hawkeye, is an exceptional marksman and skilled archer who never misses his target.",
+"powers": ["Master Archer", "Expert Marksman", "Trick Arrows"],
+"type": "superhero"
+},
+{
+"name": "Black Panther",
+"image": "blackpanther.jpg",
+"bio": "T'Challa, the Black Panther and king of Wakanda, possesses enhanced abilities and protects his nation using advanced technology.",
+"powers": ["Enhanced Strength", "Vibranium Suit", "Heightened Senses"],
+"type": "superhero"
+},
+{
+"name": "Doctor Strange",
+"image": "doctorstrange.jpg",
+"bio": "Dr. Stephen Strange, a brilliant neurosurgeon, becomes the Master of the Mystic Arts and protects the Earth from supernatural threats.",
+"powers": ["Mystic Arts", "Time Manipulation", "Dimensional Travel"],
+"type": "superhero"
+},
+{
+"name": "Spider-Man",
+"image": "spiderman.jpg",
+"bio": "Peter Parker, also known as Spider-Man, is a young superhero with incredible agility, wall-crawling abilities, and a web-shooting device.",
+"powers": ["Agility", "Web-Slinging", "Spider-Sense"],
+"type": "superhero"
+},
   {
     "name": "Scarlet Witch",
     "image": "scarletwitch.jpg",
     "bio": "Wanda Maximoff, known as Scarlet Witch, possesses reality-altering powers and is one of the most powerful mutants in the Marvel Universe.",
-    "powers": ["Reality Manipulation", "Telekinesis", "Energy Projection"]
+    "powers": ["Reality Manipulation", "Telekinesis", "Energy Projection"],
+"type": "superhero"
   },
   {
     "name": "Ant-Man",
     "image": "antman.jpg",
     "bio": "Scott Lang, the Ant-Man, can shrink in size and communicate with ants using his advanced suit and helmet.",
-    "powers": ["Size Manipulation", "Ant Communication", "Superhuman Strength (while shrunk)"]
+    "powers": ["Size Manipulation", "Ant Communication", "Superhuman Strength (while shrunk)"],
+"type": "superhero"
   },{
   "name": "Captain Marvel",
   "image": "captainmarvel.jpg",
   "bio": "Carol Danvers, also known as Captain Marvel, is a powerful superhero with cosmic powers and the ability to fly.",
-  "powers": ["Superhuman Strength", "Energy Absorption", "Flight"]
+  "powers": ["Superhuman Strength", "Energy Absorption", "Flight"],
+"type": "superhero"
 },
 {
   "name": "Vision",
   "image": "vision.jpg",
   "bio": "Vision is an android created by Tony Stark and Bruce Banner, possessing a synthetic body and the Mind Stone.",
-  "powers": ["Density Manipulation", "Energy Beams", "Intangibility"]
+  "powers": ["Density Manipulation", "Energy Beams", "Intangibility"],
+"type": "superhero"
 },
 {
   "name": "Wasp",
   "image": "wasp.jpg",
   "bio": "Hope van Dyne, also known as the Wasp, has a suit that allows her to shrink in size and fly using wings.",
-  "powers": ["Size Manipulation", "Flight", "Bio-electric Blasts"]
+  "powers": ["Size Manipulation", "Flight", "Bio-electric Blasts"],
+"type": "superhero"
 },
 {
   "name": "Falcon",
   "image": "falcon.jpg",
   "bio": "Sam Wilson, known as Falcon, is an expert pilot who uses a winged suit and advanced weaponry to fight crime.",
-  "powers": ["Flight", "Expert Marksman", "Redwing (Drone)"]
+  "powers": ["Flight", "Expert Marksman", "Redwing (Drone)"],
+"type": "superhero"
 },
 {
   "name": "War Machine",
   "image": "warmachine.jpg",
   "bio": "James Rhodes, also known as War Machine, is a highly skilled pilot who operates a heavily armed suit of armor.",
-  "powers": ["Powered Armor", "Flight", "Weaponry Systems"]
+  "powers": ["Powered Armor", "Flight", "Weaponry Systems"],
+"type": "superhero"
 },
 {
   "name": "Winter Soldier",
   "image": "wintersoldier.jpg",
   "bio": "Bucky Barnes, the Winter Soldier, is a former HYDRA assassin with enhanced strength and combat skills.",
-  "powers": ["Superhuman Strength", "Regenerative Healing", "Expert Combatant"]
-}
-
+  "powers": ["Superhuman Strength", "Regenerative Healing", "Expert Combatant"],
+"type": "superhero"
+},
+       {
+    "name": "Deadpool",
+    "image": "deadpool.jpg",
+    "bio": "Wade Wilson, also known as Deadpool, is a mutant mercenary with a regenerative healing factor, exceptional combat skills, and a twisted sense of humor.",
+    "powers": ["Regenerative Healing", "Enhanced Agility", "Swordsmanship"],
+"type": "superhero"
+  },{
+  "name": "Venom",
+  "alias": "Eddie Brock",
+  "powers": ["Symbiote Abilities", "Superhuman Strength", "Shape-Shifting"],
+"type": "superhero"
+},
+    {
+    "name": "Mr. Fantastic",
+    "image": "mr_fantastic.jpg",
+    "bio": "Reed Richards, also known as Mr. Fantastic, is the leader of the Fantastic Four and possesses the ability to stretch his body to incredible lengths.",
+    "powers": ["Elasticity", "Superhuman Intelligence", "Scientific Genius"],
+"type": "superhero"
+  },
+  {
+    "name": "Invisible Woman",
+    "image": "invisible_woman.jpg",
+    "bio": "Sue Storm, also known as Invisible Woman, is a member of the Fantastic Four and has the power to become invisible and create force fields.",
+    "powers": ["Invisibility", "Force Field Projection", "Psionic Energy Manipulation"],
+"type": "superhero"
+  },
+  {
+    "name": "Human Torch",
+    "image": "human_torch.jpg",
+    "bio": "Johnny Storm, also known as Human Torch, is a member of the Fantastic Four and can generate and manipulate flames, as well as fly.",
+    "powers": ["Pyrokinesis", "Flight", "Heat Immunity"],
+"type": "superhero"
+  },
+  {
+    "name": "The Thing",
+    "image": "the_thing.jpg",
+    "bio": "Ben Grimm, also known as The Thing, is a member of the Fantastic Four and possesses superhuman strength, durability, and a rock-like appearance.",
+    "powers": ["Superhuman Strength", "Enhanced Durability", "Rock-like Skin"],
+"type": "superhero"
+  }
 ]
+
